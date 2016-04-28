@@ -1,2 +1,1 @@
-# wiki
-EthFans 知识库
+[EthFans Wiki](https://github.com/EthFans/wiki/wiki)
